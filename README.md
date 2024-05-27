@@ -1,16 +1,21 @@
-## Hi there 👋
+** Seja Bem vindo ao Meu Perfil** 🥇
 
-<!--
-**ManciniGa/ManciniGa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ _special_ ✨ 
 
-Here are some ideas to get you started:
+- Sou o Professor de Tecnologia da Jânio Qaudros.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou aqui para ensinar e apresentar o github para meus alunos
+
+- Utilizamos a plataforma do alura para adquirir novos conhecimentos durante a trajétoria na Jânio Quadros
+
+- [alura](https://www.alura.com.br)
+  
+- Espero ajudar com o que for possivel. 
+
+** Meu contato E-mail: 📫
+
+mancini.bdc@gmail.com
+
+https://media1.tenor.com/m/J1aaq4h-pnMAAAAC/travolta-teacher.gif
+
+![](https://media1.tenor.com/m/J1aaq4h-pnMAAAAC/travolta-teacher.gif)
